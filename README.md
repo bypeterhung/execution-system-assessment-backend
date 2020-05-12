@@ -5,7 +5,6 @@ This project corresponds to Web API component of the system
 
 Clone repo then run this node command in project directory:  `npm install`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts After Installation
 
@@ -18,6 +17,6 @@ Open [http://localhost:3300/stocks?limit=0&offset=10](http://localhost:3300/stoc
 
 
 ### Choice of Technology
-* express for http based api service
+* express for restful api service
 * no use of typescript, automated testing (unlike the GUI component)
 * build to meet the minimum requirements of the assessment, I focus my effort on the GUI component mostly 
